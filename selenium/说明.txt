@@ -1,0 +1,3 @@
+python°æ±¾£º2.7
+firefox°æ±¾£º47.0.2
+0a0dfa0df

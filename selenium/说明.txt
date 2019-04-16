@@ -1,3 +1,2 @@
-python版本：2.7
-firefox版本：47.0.2
-0a0dfa0df
+python版本：3.4.1
+firefox版本：63

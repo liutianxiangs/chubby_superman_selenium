@@ -64,7 +64,7 @@ class db_ope():
         database.close()
 
 if __name__ == "__main__":
-    host = "rm-2ze6c2r3f406x926cxo.mysql.rds.aliyuncs.com"
+    host = "rm-.mysql.rds.aliyuncs.com"
     user = "pipitest"
     password = "abcd1234_"
     port = 3306
